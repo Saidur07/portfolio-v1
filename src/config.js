@@ -4,7 +4,7 @@ module.exports = {
     'Saidur Rahman is a Software Developer, based in Bangladesh, who loves learning new things and explore new things.',
   siteKeywords:
     'Saidur Rahman, Programmer Saidur, Saidurs portfolio, Genres, software engineer, web developer, javascript, python, java, Bhola govt high school, Bhola, Programming Hero',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+  siteUrl: 'https://programmer-saidur-v1.vercel.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
